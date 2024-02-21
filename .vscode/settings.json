@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "/Users/muhammad.adil1/.vscode/extensions/arbisoft.codeker-0.0.1"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/Users/muhammad.adil1/.vscode/extensions/arbisoft.codeker-0.0.1"
+    ]
+}
